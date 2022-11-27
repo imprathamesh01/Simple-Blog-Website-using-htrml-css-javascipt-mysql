@@ -1,1 +1,1 @@
-# Simple-Blog-Website-using-htrml-css-javascipt-mysql
+# Simple-Blog-Website-using-html-css-javascipt-mysql
